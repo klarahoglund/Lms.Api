@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Api", "Lms.Api\Lms.Api.csproj", "{6873BFB4-4A8F-4E02-BDB1-D6DEF9D7166D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Core", "Lms.Core\Lms.Core.csproj", "{C26B62E5-BA28-48EC-AA29-448EA706F293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Data", "Lms.Data\Lms.Data.csproj", "{33E82ECE-11B4-4303-A044-4C806DA34D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6873BFB4-4A8F-4E02-BDB1-D6DEF9D7166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6873BFB4-4A8F-4E02-BDB1-D6DEF9D7166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6873BFB4-4A8F-4E02-BDB1-D6DEF9D7166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6873BFB4-4A8F-4E02-BDB1-D6DEF9D7166D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26B62E5-BA28-48EC-AA29-448EA706F293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26B62E5-BA28-48EC-AA29-448EA706F293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26B62E5-BA28-48EC-AA29-448EA706F293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26B62E5-BA28-48EC-AA29-448EA706F293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E82ECE-11B4-4303-A044-4C806DA34D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E82ECE-11B4-4303-A044-4C806DA34D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E82ECE-11B4-4303-A044-4C806DA34D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E82ECE-11B4-4303-A044-4C806DA34D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F4B92F-51BF-4586-8A69-C53304C9E8FC}
+	EndGlobalSection
+EndGlobal
